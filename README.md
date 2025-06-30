@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 | [0090-subsets-ii](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0139-word-break](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0139-word-break) |
 | [0216-combination-sum-iii](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0216-combination-sum-iii) |
+| [3799-unique-3-digit-even-numbers](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/3799-unique-3-digit-even-numbers) |
 ## Backtracking
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 | [0017-letter-combinations-of-a-phone-number](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0139-word-break](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0139-word-break) |
+| [3799-unique-3-digit-even-numbers](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/3799-unique-3-digit-even-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -81,8 +83,13 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 |  |
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3799-unique-3-digit-even-numbers](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/3799-unique-3-digit-even-numbers) |
 ## Simulation
 |  |
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Enumeration
+|  |
+| ------- |
+| [3799-unique-3-digit-even-numbers](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/3799-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->

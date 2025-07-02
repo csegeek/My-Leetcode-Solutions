@@ -11,12 +11,12 @@
 class Solution {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         ListNode head=new ListNode();
-        int sum=l1.val+l2.val;
-        int value=sum%10;
-        int remain=sum/10;
-        head.val=value;
-         recursiveSol(l1.next,l2.next,head,remain);
-        return head;
+        // int sum=l1.val+l2.val;
+        // int value=sum%10;
+        // int remain=sum/10;
+        // head.val=value;
+         recursiveSol(l1,l2,head,0);
+        return head.next;
     }
    private void recursiveSol(ListNode l1, ListNode l2, ListNode response, int carry) {
         if (l1 == null && l2 == null && carry == 0) {

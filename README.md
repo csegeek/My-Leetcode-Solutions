@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 | [0079-word-search](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0139-word-break](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0139-word-break) |
+| [0198-house-robber](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0216-combination-sum-iii](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0216-combination-sum-iii) |
 | [3799-unique-3-digit-even-numbers](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/3799-unique-3-digit-even-numbers) |
 ## Backtracking
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 | [0070-climbing-stairs](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0139-word-break) |
+| [0198-house-robber](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0198-house-robber) |
 ## Depth-First Search
 |  |
 | ------- |

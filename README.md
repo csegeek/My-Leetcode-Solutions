@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 | [0040-combination-sum-ii](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0139-word-break](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0139-word-break) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 | [0022-generate-parentheses](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0139-word-break) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 | ------- |
 | [0037-sudoku-solver](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0079-word-search) |
 ## Trie
 |  |

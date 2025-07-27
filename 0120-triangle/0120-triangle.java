@@ -1,19 +1,25 @@
 class Solution {
-  private Integer[][] memo;
+    public int minimumTotal(List<List<Integer>> triangle) {
+       int m=triangle.size();
+       int n=triangle.get(m-1).size();
+       Integer[][] dp=new Integer[m][n];
+    //    for(int i=0;i<m;i++){
+    //     Arrays.fill(dp[i],-1);
+    //    }
+       return recursion(0,0,m,triangle,dp);
+    }
 
-public int minimumTotal(List<List<Integer>> triangle) {
-	int n = triangle.size();
-	memo = new Integer[n][n];
-	return dfs(0, 0, triangle);
-}
-
-private int dfs(int level, int i, List<List<Integer>> triangle) {
-	if (memo[level][i] != null) return memo[level][i];
-
-	int path = triangle.get(level).get(i);
-	if (level < triangle.size() - 1) 
-		path += Math.min(dfs(level + 1, i, triangle), dfs(level + 1, i + 1, triangle));
-
-	return memo[level][i] = path;
-}
+    private int recursion(int i,int j,int m,List<List<Integer>>triangle,Integer[][] dp){
+        if(dp[i][j]!=null) return dp[i][j];
+       if(i==m-1){
+        return triangle.get(i).get(j);
+       }
+       
+       if(i<triangle.size() && j<triangle.get(i).size()){
+        int dw=triangle.get(i).get(j)+recursion(i+1,j,m,triangle,dp);
+        int diag=triangle.get(i).get(j)+recursion(i+1,j+1,m,triangle,dp);
+        return dp[i][j]=Math.min(dw,diag);
+       }
+       return Integer.MAX_VALUE;
+       }
 }

@@ -37,10 +37,31 @@ class Solution {
             }
         }
        }
-     return dp[text1.length()][text2.length()];
+    
+    int n=text1.length();
+    int m=text2.length();
+    int len=dp[n][m];
+    int i=n;
+    int j=m;
+    int index = len-1;
+    String str="";
+    for(int k=1; k<=len;k++){
+        str +="$"; // dummy string
     }
-
-
-
-
+    StringBuilder str2=new StringBuilder(str);
+    while(i>0 && j>0){
+        if(text1.charAt(i-1) == text2.charAt(j-1)){
+            str2.setCharAt(index,text1.charAt(i-1) ); 
+            index--;
+            i--;
+            j--;
+        }
+        else if(text1.charAt(i-1)>text2.charAt(j-1)){
+            i--;
+        }
+        else j--;
+    }
+    System.out.println(str2);
+    return len;
+    }
 }

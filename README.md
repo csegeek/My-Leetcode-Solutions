@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 | [0017-letter-combinations-of-a-phone-number](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0058-length-of-last-word) |
+| [0072-edit-distance](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 | [0063-unique-paths-ii](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |

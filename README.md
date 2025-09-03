@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0079-word-search) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+| [0044-wildcard-matching](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0044-wildcard-matching) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/3799-unique-3-digit-even-numbers) |
 ## Simulation
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0044-wildcard-matching) |
 | [0455-assign-cookies](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0455-assign-cookies) |
 ## Sorting
 |  |

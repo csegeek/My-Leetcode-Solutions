@@ -7,7 +7,17 @@ class Solution {
     //         }
     //     }
     //  return recursion(0,1,k,prices,dp);
-    return tabulation(prices,k);
+    //return tabulation(prices,k);
+
+      /* Note: in recursion 2 we will be taking a transactions
+         where even trans are buy and odd transaction are sell
+         so the total transaction becomes 2*cap;
+      */
+      int [][] dp=new int[prices.length][2*k];
+      for(int [] dpi:dp){
+        Arrays.fill(dpi,-1);
+      }
+      return recursion2(0,0,prices,k,dp);
     }
 
     int recursion(int i, int buy, int cap, int[] prices, int[][][] dp) {
@@ -41,4 +51,18 @@ class Solution {
     }
     return dp[0][1][k];
 }
+
+    int recursion2(int i,int trans,int[] prices,int cap,int [][]dp){
+          if(i==prices.length || trans==2*cap) return 0;
+          if(dp[i][trans] !=-1) return dp[i][trans];
+          if (trans%2 == 0) {
+            return  dp[i][trans]= Math.max(-prices[i] + recursion2(i + 1,trans+1,prices,cap,dp),
+                    recursion2(i + 1, trans, prices,cap,dp));
+        } 
+        else {
+            return dp[i][trans]=Math.max(prices[i] + recursion2(i + 1, trans+1, prices, cap,dp),
+                    recursion2(i + 1, trans, prices, cap,dp));
+        }   
+    }
+
 }

@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 | [0518-coin-change-ii](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0518-coin-change-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0792-binary-search](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0792-binary-search) |
 | [0967-minimum-falling-path-sum](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0967-minimum-falling-path-sum) |
 | [1129-longest-string-chain](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/1129-longest-string-chain) |
 | [1559-cherry-pickup-ii](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/1559-cherry-pickup-ii) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0792-binary-search](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0792-binary-search) |
 ## Binary Indexed Tree
 |  |
 | ------- |

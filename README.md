@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 | [0967-minimum-falling-path-sum](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0967-minimum-falling-path-sum) |
 | [1129-longest-string-chain](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/1129-longest-string-chain) |
 | [1559-cherry-pickup-ii](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/1559-cherry-pickup-ii) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [3799-unique-3-digit-even-numbers](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/3799-unique-3-digit-even-numbers) |
 ## Backtracking
 |  |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 | [1250-longest-common-subsequence](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1559-cherry-pickup-ii](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/1559-cherry-pickup-ii) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 | [0368-largest-divisible-subset](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [1129-longest-string-chain](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/1129-longest-string-chain) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Breadth-First Search
 |  |
 | ------- |

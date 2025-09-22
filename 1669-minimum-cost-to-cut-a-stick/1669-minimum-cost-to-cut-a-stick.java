@@ -1,18 +1,18 @@
 class Solution {
     public int minCost(int n, int[] cuts) {
-        int [][] dp=new int [cuts.length+2][cuts.length+2];
-        for(int [] dpi:dp){
-            Arrays.fill(dpi,-1);
-        }
-        int [] arr=new int[cuts.length+2];
-        arr[0]=0;
-        for(int i=0;i<cuts.length;i++){
-            arr[i+1]=cuts[i];
-        }
-        arr[cuts.length+1]=n;
-        Arrays.sort(arr);
-      return recursion(1,arr.length-2,arr,dp);
-  //  return tabulation(n,cuts);
+    //     int [][] dp=new int [cuts.length+2][cuts.length+2];
+    //     for(int [] dpi:dp){
+    //         Arrays.fill(dpi,-1);
+    //     }
+    //     int [] arr=new int[cuts.length+2];
+    //     arr[0]=0;
+    //     for(int i=0;i<cuts.length;i++){
+    //         arr[i+1]=cuts[i];
+    //     }
+    //     arr[cuts.length+1]=n;
+    //     Arrays.sort(arr);
+    //   return recursion(1,arr.length-2,arr,dp);
+         return tabulation(n,cuts);
     }
 
     int recursion(int i, int j,int[] arr,int[][] dp) {
@@ -27,10 +27,7 @@ class Solution {
     }
 
     int tabulation(int n,int[] cuts){
-      int [][] dp=new int [cuts.length+2][cuts.length+2];
-        for(int [] dpi:dp){
-            Arrays.fill(dpi,-1);
-        }
+        int [][] dp=new int [cuts.length+2][cuts.length+2];
         int [] arr=new int[cuts.length+2];
         arr[0]=0;
         for(int i=0;i<cuts.length;i++){
@@ -38,8 +35,8 @@ class Solution {
         }
         arr[cuts.length+1]=n;
         Arrays.sort(arr);
-        for(int i=cuts.length-1;i>0;i--){
-            for(int j=1;j<cuts.length;j++){
+        for(int i=cuts.length;i>0;i--){
+            for(int j=1;j<=cuts.length;j++){
                 if(i>j) continue;
                 int min =(int) 1e9;
          for(int k=i;k<=j;k++){
@@ -49,6 +46,6 @@ class Solution {
           dp[i][j]= min; 
             }
         } 
-        return dp[1] [arr.length-2];
+        return dp[1] [cuts.length];
     }
 }

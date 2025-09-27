@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 | [0583-delete-operation-for-two-strings](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [1129-longest-string-chain](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/1170-shortest-common-supersequence) |
+| [1197-parsing-a-boolean-expression](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [1250-longest-common-subsequence](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 | ------- |
 | [0002-add-two-numbers](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0044-wildcard-matching](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0044-wildcard-matching) |
+| [1197-parsing-a-boolean-expression](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/3799-unique-3-digit-even-numbers) |
 ## Simulation
@@ -217,4 +219,8 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Stack
+|  |
+| ------- |
+| [1197-parsing-a-boolean-expression](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/1197-parsing-a-boolean-expression) |
 <!---LeetCode Topics End-->

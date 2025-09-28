@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0040-combination-sum-ii) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0300-longest-increasing-subsequence](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0792-binary-search](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0792-binary-search) |
 ## Binary Indexed Tree

@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0044-wildcard-matching) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0139-word-break](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0139-word-break) |
@@ -225,4 +227,8 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 |  |
 | ------- |
 | [1197-parsing-a-boolean-expression](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/1197-parsing-a-boolean-expression) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->

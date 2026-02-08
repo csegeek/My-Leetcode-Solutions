@@ -1,55 +1,23 @@
 class Solution {
     public int largestRectangleArea(int[] heights) {
-      int[] nsei=nsei(heights);
-      int[] psei=psei(heights);
-      //System.out.println("nsei-->"+Arrays.toString(nsei));
-      //System.out.println("psei-->"+Arrays.toString(psei));
-      int maxArea=Integer.MIN_VALUE;
-      for(int i=0;i<heights.length;i++){
-        int area=heights[i]*(nsei[i]-psei[i]-1);
-        maxArea=Math.max(area,maxArea);
-      }  
-      return maxArea;
-    }
-    private int[] nsei(int[] heights){
-        int n=heights.length;
-        int[] res=new int [n];
-        Stack<Integer> st=new Stack<>();
-        for(int i=n-1;i>=0;i--){
-           while(!st.isEmpty() && heights[st.peek()]>=heights[i])        {
-            st.pop();
-           }
-           if(st.isEmpty()){
-            res[i]=n;
-           }
-           else{
-             res[i]=st.peek();
-           }
-           st.push(i);
+        Stack<Integer> stack = new Stack<>();
+        int maxArea = 0;
+        int n = heights.length;
+        for (int i = 0; i <= n; i++) {
+            // Case 1: Normal iteration (i < n)
+            while (i < n && !stack.isEmpty() && heights[stack.peek()] >= heights[i]) {
+                int height = heights[stack.pop()];
+                int width = stack.isEmpty() ? i : i - stack.peek() - 1;
+                maxArea = Math.max(maxArea, height * width);
+            }
+            // Case 2: End of array — flush remaining bars
+            while (i == n && !stack.isEmpty()) {
+                int height = heights[stack.pop()];
+                int width = stack.isEmpty() ? i : i - stack.peek() - 1;
+                maxArea = Math.max(maxArea, height * width);
+            }
+            stack.push(i);
         }
-        return res;
+        return maxArea;
     }
-
-    private int [] psei(int[] heights){
-        int n=heights.length;
-        int[] res=new int [n];
-        Stack<Integer> st=new Stack<>();
-        for(int i=0;i<n;i++){
-           while(!st.isEmpty() && heights[st.peek()]>=heights[i])        {
-            st.pop();
-           }
-           if(st.isEmpty()){
-            res[i]=-1;
-           }
-           else{
-             res[i]=st.peek();
-           }
-           st.push(i);
-        }
-
-        return res;
-    }
-
-
-
 }

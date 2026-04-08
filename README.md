@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0792-binary-search](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0792-binary-search) |
 | [0967-minimum-falling-path-sum](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0967-minimum-falling-path-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1129-longest-string-chain](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/1129-longest-string-chain) |
 | [1559-cherry-pickup-ii](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/1559-cherry-pickup-ii) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 | [0035-search-insert-position](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0300-longest-increasing-subsequence](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0792-binary-search](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0792-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -244,4 +247,8 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0901-online-stock-span](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0901-online-stock-span/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 <!---LeetCode Topics End-->

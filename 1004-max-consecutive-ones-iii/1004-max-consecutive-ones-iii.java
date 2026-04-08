@@ -6,10 +6,14 @@ class Solution {
         int zeros=0;
         while(r<nums.length){
            if(nums[r]==0) zeros++ ;
-           while(zeros>k){
+        //    while(zeros>k){
+        //     if(nums[l]==0) zeros--;
+        //     l++;
+        //    }
+          if(zeros>k){
             if(nums[l]==0) zeros--;
             l++;
-           }
+          }
            if(zeros<=k){
             maxLength=Math.max(maxLength,r-l+1);
            }

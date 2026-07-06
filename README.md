@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 | [1129-longest-string-chain](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/1129-longest-string-chain) |
 | [1559-cherry-pickup-ii](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/1559-cherry-pickup-ii) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3799-unique-3-digit-even-numbers](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/3799-unique-3-digit-even-numbers) |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [1129-longest-string-chain](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/1129-longest-string-chain) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |

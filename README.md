@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 | [0120-triangle](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0128-longest-consecutive-sequence](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0139-word-break](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0198-house-robber) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 | [0003-longest-substring-without-repeating-characters](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0037-sudoku-solver) |
+| [0128-longest-consecutive-sequence](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0139-word-break](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0139-word-break) |
 | [0904-fruit-into-baskets](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1129-longest-string-chain](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/1129-longest-string-chain) |
@@ -257,4 +259,8 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->

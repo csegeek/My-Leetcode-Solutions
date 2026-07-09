@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 | [0037-sudoku-solver](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0040-combination-sum-ii) |
+| [0048-rotate-image](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0051-n-queens](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0063-unique-paths-ii](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0079-word-search) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0062-unique-paths](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0282-expression-add-operators](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0282-expression-add-operators) |

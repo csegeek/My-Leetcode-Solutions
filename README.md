@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 | [0198-house-robber](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0216-combination-sum-iii) |
+| [0229-majority-element-ii](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0312-burst-balloons) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 | [0037-sudoku-solver](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0128-longest-consecutive-sequence](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0139-word-break](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0139-word-break) |
+| [0229-majority-element-ii](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1129-longest-string-chain](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/1129-longest-string-chain) |
 | [3799-unique-3-digit-even-numbers](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/3799-unique-3-digit-even-numbers) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0229-majority-element-ii](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [1129-longest-string-chain](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/1129-longest-string-chain) |
@@ -269,4 +272,8 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0229-majority-element-ii](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 <!---LeetCode Topics End-->

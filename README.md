@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0018-4sum/) | Medium |
 | [0035-search-insert-position](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0039-combination-sum) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0018-4sum/) | Medium |
 | [0455-assign-cookies](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [1129-longest-string-chain](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/1129-longest-string-chain) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0018-4sum/) | Medium |
 | [0229-majority-element-ii](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0455-assign-cookies) |

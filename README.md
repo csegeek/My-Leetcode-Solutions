@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 | [0048-rotate-image](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0051-n-queens](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
+| [0056-merge-intervals](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0063-unique-paths-ii](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0079-word-search) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 | ------- | ------- |
 | [0015-3sum](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0018-4sum/) | Medium |
+| [0056-merge-intervals](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0229-majority-element-ii](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0455-assign-cookies) |

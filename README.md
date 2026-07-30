@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 | [0368-largest-divisible-subset](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0455-assign-cookies) |
+| [0493-reverse-pairs](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0493-reverse-pairs/) | Hard |
 | [0494-target-sum](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0518-coin-change-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -239,15 +240,18 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0300-longest-increasing-subsequence](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0493-reverse-pairs](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0493-reverse-pairs/) | Hard |
 | [0792-binary-search](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0792-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0493-reverse-pairs](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0493-reverse-pairs/) | Hard |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0493-reverse-pairs](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0493-reverse-pairs/) | Hard |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Stack
 | Problem Name | Difficulty |
@@ -284,4 +288,16 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0493-reverse-pairs/) | Hard |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0493-reverse-pairs/) | Hard |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0493-reverse-pairs/) | Hard |
 <!---LeetCode Topics End-->

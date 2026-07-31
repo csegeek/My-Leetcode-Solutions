@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0139-word-break](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0213-house-robber-ii) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0131-palindrome-partitioning](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0213-house-robber-ii) |

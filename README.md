@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 | ------- | ------- |
 | [0015-3sum](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0018-4sum/) | Medium |
+| [0033-search-in-rotated-sorted-array](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0037-sudoku-solver) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0300-longest-increasing-subsequence](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |

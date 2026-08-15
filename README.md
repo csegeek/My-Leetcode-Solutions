@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 | [0139-word-break](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0162-find-peak-element](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0213-house-robber-ii) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 | [0069-sqrtx](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0069-sqrtx/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0162-find-peak-element](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0493-reverse-pairs](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0493-reverse-pairs/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |

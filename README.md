@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 | [0673-number-of-longest-increasing-subsequence](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0792-binary-search](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0792-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0967-minimum-falling-path-sum](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0967-minimum-falling-path-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 | [0493-reverse-pairs](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0493-reverse-pairs/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0792-binary-search](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0792-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |

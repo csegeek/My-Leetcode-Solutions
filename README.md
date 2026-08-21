@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 | [1129-longest-string-chain](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/1129-longest-string-chain) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [1539-kth-missing-positive-number](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1559-cherry-pickup-ii](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/1559-cherry-pickup-ii) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [1539-kth-missing-positive-number](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |

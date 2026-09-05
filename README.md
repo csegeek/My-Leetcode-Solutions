@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0015-3sum](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0018-4sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0035-search-insert-position) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0493-reverse-pairs](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0493-reverse-pairs/) | Hard |
 ## Merge Sort
 | Problem Name | Difficulty |

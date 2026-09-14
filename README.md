@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 | [1539-kth-missing-positive-number](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1559-cherry-pickup-ii](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/1559-cherry-pickup-ii) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1901-find-a-peak-element-ii](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3799-unique-3-digit-even-numbers](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/3799-unique-3-digit-even-numbers) |
 ## Backtracking
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 | [0240-search-a-2d-matrix-ii](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0967-minimum-falling-path-sum](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0967-minimum-falling-path-sum) |
 | [1559-cherry-pickup-ii](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/1559-cherry-pickup-ii) |
+| [1901-find-a-peak-element-ii](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/1901-find-a-peak-element-ii/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [1901-find-a-peak-element-ii](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/1901-find-a-peak-element-ii/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |

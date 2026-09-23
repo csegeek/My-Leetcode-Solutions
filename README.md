@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1129-longest-string-chain](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/1129-longest-string-chain) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1559-cherry-pickup-ii](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/1559-cherry-pickup-ii) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 | [0003-longest-substring-without-repeating-characters](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0904-fruit-into-baskets](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |

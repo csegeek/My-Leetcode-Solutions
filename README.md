@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 | [0044-wildcard-matching](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 | [0003-longest-substring-without-repeating-characters](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0037-sudoku-solver) |
+| [0076-minimum-window-substring](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0139-word-break](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0139-word-break) |
 | [0229-majority-element-ii](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |

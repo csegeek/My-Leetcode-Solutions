@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 | [1170-shortest-common-supersequence](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/1170-shortest-common-supersequence) |
 | [1197-parsing-a-boolean-expression](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [1250-longest-common-subsequence](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/1250-longest-common-subsequence) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Bit Manipulation
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 | [0424-longest-repeating-character-replacement](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1129-longest-string-chain](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/1129-longest-string-chain) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [3799-unique-3-digit-even-numbers](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/3799-unique-3-digit-even-numbers) |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 | [0424-longest-repeating-character-replacement](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Design
 | Problem Name | Difficulty |

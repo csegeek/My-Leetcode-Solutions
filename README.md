@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 | [1004-max-consecutive-ones-iii](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1129-longest-string-chain](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/1129-longest-string-chain) |
+| [1248-count-number-of-nice-subarrays](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 | [0904-fruit-into-baskets](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1129-longest-string-chain](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/1129-longest-string-chain) |
+| [1248-count-number-of-nice-subarrays](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [3799-unique-3-digit-even-numbers](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/3799-unique-3-digit-even-numbers) |
 ## Dynamic Programming
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 | [0070-climbing-stairs](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0282-expression-add-operators](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0282-expression-add-operators) |
 | [0368-largest-divisible-subset](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0368-largest-divisible-subset) |
+| [1248-count-number-of-nice-subarrays](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
 | Problem Name | Difficulty |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 | [0904-fruit-into-baskets](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Design
@@ -334,6 +338,7 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 | [0410-split-array-largest-sum](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0930-binary-subarrays-with-sum](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |

@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 | [0904-fruit-into-baskets](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0967-minimum-falling-path-sum](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0967-minimum-falling-path-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1129-longest-string-chain](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/1129-longest-string-chain) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 | [0424-longest-repeating-character-replacement](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1129-longest-string-chain](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/1129-longest-string-chain) |
 | [1248-count-number-of-nice-subarrays](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 | [0424-longest-repeating-character-replacement](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -348,6 +351,7 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |

@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0079-word-search) |
+| [0144-binary-tree-preorder-traversal](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0901-online-stock-span](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0901-online-stock-span/) | Medium |
 | [1197-parsing-a-boolean-expression](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/1197-parsing-a-boolean-expression) |
 ## Sliding Window
@@ -370,4 +372,12 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0069-sqrtx/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 <!---LeetCode Topics End-->

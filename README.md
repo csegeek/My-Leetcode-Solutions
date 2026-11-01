@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 | ------- | ------- |
 | [0079-word-search](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0079-word-search) |
 | [0144-binary-tree-preorder-traversal](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0901-online-stock-span](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0901-online-stock-span/) | Medium |
 | [1197-parsing-a-boolean-expression](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/1197-parsing-a-boolean-expression) |
 ## Sliding Window
@@ -378,9 +380,11 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 <!---LeetCode Topics End-->

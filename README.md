@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 | ------- | ------- |
 | [0079-word-search](https://github.com/csegeek/My-Leetcode-Solutions/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0100-same-tree/) | Easy |
+| [0110-balanced-binary-tree](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Matrix
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 | ------- | ------- |
 | [0100-same-tree](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0110-balanced-binary-tree](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Binary Tree
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 | ------- | ------- |
 | [0100-same-tree](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0110-balanced-binary-tree](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 <!---LeetCode Topics End-->

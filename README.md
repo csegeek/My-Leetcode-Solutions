@@ -391,6 +391,7 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 | [0144-binary-tree-preorder-traversal](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [2236-root-equals-sum-of-children](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the increase my DSA Understandings
 | [0144-binary-tree-preorder-traversal](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [2236-root-equals-sum-of-children](https://github.com/csegeek/My-Leetcode-Solutions/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
